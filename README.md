@@ -1,5 +1,6 @@
-<img width="452" alt="image" src="https://github.com/trijeetbhandula/Employee_Database/assets/114346898/f7c34c11-0e1a-4999-829b-4ba6b3b0093d"># Employee_Database
 Employee Database Management System in C++
+
+This file shows the progressive development and features of the Employee Database Management System.
 
 
 1.	On compiling and running UserInterface.cpp it works without any errors.
@@ -38,6 +39,7 @@ After adding the command to save to specific filename
  <img width="452" alt="image" src="https://github.com/trijeetbhandula/Employee_Database/assets/114346898/b826d914-a1cd-4828-890f-dd604fabcab1">
 <img width="452" alt="image" src="https://github.com/trijeetbhandula/Employee_Database/assets/114346898/6c8f7e1a-38d9-4022-b504-a0c446095ec4">
 
+
 Task -5 Load From File
 
 <img width="452" alt="image" src="https://github.com/trijeetbhandula/Employee_Database/assets/114346898/830469ae-e0f2-4d17-8e16-87ed2dcae0c5">
@@ -50,6 +52,7 @@ After adding the command to load from filename
 
  <img width="452" alt="image" src="https://github.com/trijeetbhandula/Employee_Database/assets/114346898/d8c94b58-9eeb-4f22-ad18-f64f936ce685">
 <img width="452" alt="image" src="https://github.com/trijeetbhandula/Employee_Database/assets/114346898/02b8f10d-a539-4ca2-a809-770cde3411a1">
+
  
 Task – 6 Editing Employee
 
